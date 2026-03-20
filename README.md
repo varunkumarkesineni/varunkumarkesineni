@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science undergraduate at CMR College of Engineering & Technology with a strong interest in Data Analytics and Business Intelligence. I enjoy working with data to identify patterns, generate meaningful insights, and present information through clear visualizations and interactive dashboards. I am currently building hands-on projects using SQL, Excel, and Power BI while strengthening my understanding of data analysis and visualization techniques. My core skills include SQL for data querying and analysis, Microsoft Excel for data cleaning and pivot-based analysis, and Power BI/Tableau for dashboard development and data visualization, along with basic Python for data analysis. I am actively developing a portfolio of real world analytics projects and seeking opportunities to apply data driven decision making in practical environments.
+I am a Computer Science undergraduate at CMR College of Engineering & Technology with a strong interest in Data Analytics and Business Intelligence. I enjoy working with data to identify patterns, generate meaningful insights, and present information through clear visualizations and interactive dashboards. I am currently building hands on projects using SQL, Excel, and Power BI while strengthening my understanding of data analysis and visualization techniques. My core skills include SQL for data querying and analysis, Microsoft Excel for data cleaning and pivot based analysis, and Power BI/Tableau for dashboard development and data visualization, along with basic Python for data analysis. I am actively developing a portfolio of real world analytics projects and seeking opportunities to apply data driven decision making in practical environments.
 
 ---
 
@@ -48,30 +48,6 @@ I am a Computer Science undergraduate at CMR College of Engineering & Technology
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunkumarkesineni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4e9eff&icon_color=4e9eff&text_color=e2e2f0"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumarkesineni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4e9eff&text_color=e2e2f0"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumarkesineni&theme=tokyonight&hide_border=true&background=0d1117&ring=4e9eff&fire=f472b6&currStreakLabel=4e9eff" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunkumarkesineni&theme=tokyo-night&bg_color=0d1117&color=4e9eff&line=4e9eff&point=f472b6&hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
