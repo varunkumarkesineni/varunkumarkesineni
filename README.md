@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4e9eff&height=200&section=header&text=Hey%2C%20I'm%20Kesin%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Cloud%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4e9eff&height=200&section=header&text=Hey%2C%20I'm%20Varun%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Cloud%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -11,9 +11,9 @@
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4e9eff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=varunkumarkesineni&color=4e9eff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=4e9eff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/varunkumarkesineni?style=for-the-badge&color=4e9eff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 ```yaml
-Name       : Kesineni Varun Kumar
+Name       : Varun Kumar Kesineni
 Role       : Aspiring Data Analyst & Cloud Engineer
 College    : B.Tech Information Technology — 2rd Year
 Location   : Hyderabad, India 🇮🇳
@@ -114,21 +114,21 @@ Status     : 📖 Currently Learning — Day by Day
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4e9eff&icon_color=4e9eff&text_color=e2e2f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunkumarkesineni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4e9eff&icon_color=4e9eff&text_color=e2e2f0"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4e9eff&text_color=e2e2f0"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=4e9eff&fire=f472b6&currStreakLabel=4e9eff" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumarkesineni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4e9eff&text_color=e2e2f0"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=4e9eff&line=4e9eff&point=f472b6&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumarkesineni&theme=tokyonight&hide_border=true&background=0d1117&ring=4e9eff&fire=f472b6&currStreakLabel=4e9eff" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunkumarkesineni&theme=tokyo-night&bg_color=0d1117&color=4e9eff&line=4e9eff&point=f472b6&hide_border=true" width="100%"/>
 
 </div>
 
@@ -138,29 +138,13 @@ Status     : 📖 Currently Learning — Day by Day
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=varunkumarkesineni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 What I'm Currently Learning (Mar 2026)
 
-```
-📌 Week of Mar 16–22, 2026
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅  Mar 16  —  Researched DA & Cloud job roles on LinkedIn
-✅  Mar 17  —  Created GitHub, Kaggle, AWS Free Tier accounts
-✅  Mar 18  —  Watched: What is Data Analytics? (freeCodeCamp)
-✅  Mar 19  —  Watched: What is Cloud Computing? (AWS/Azure)
-✅  Mar 20  —  Completed LinkedIn profile (photo, summary, skills)
-🔄  Mar 21  —  Connecting with 30 DA/Cloud professionals
-📌  Mar 22  —  Building this GitHub profile README (you're reading it!)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Next: SQL · Python · Power BI · AWS CLF-C02 (May 2026 onwards)
-```
-
----
 
 ## 🎯 Target Companies for 2028
 
@@ -183,10 +167,10 @@ Next: SQL · Python · Power BI · AWS CLF-C02 (May 2026 onwards)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-kesineni-80a427326)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/varunkumarkesineni)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kesinenivarunkumar715@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunkumarkesineni)
 
 </div>
 
