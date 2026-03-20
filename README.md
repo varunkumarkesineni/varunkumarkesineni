@@ -3,14 +3,13 @@
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4e9eff&height=200&section=header&text=Hey%2C%20I'm%20Varun%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Cloud%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+<!-- PROFESSIONAL ANIMATED ROLE BANNER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4E9EFF&center=true&vCenter=true&width=600&lines=🎯+Targeting+MNC+Placement+by+2028;📊+Learning+Data+Analytics+from+scratch;☁️+Exploring+AWS+%26+Azure+Cloud;🤖+Building+AI-powered+projects;💻+3rd+Year+IT+Student+%7C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=4E9EFF&center=true&vCenter=true&width=700&height=60&lines=📊+Data+Analyst+in+the+Making;☁️+Cloud+Engineer+%7C+AWS+%26+Azure;🤖+AI+%26+Machine+Learning+Explorer;🎯+B.Tech+IT+%7C+CMR+College+Hyderabad" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=varunkumarkesineni&color=4e9eff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/varunkumarkesineni?style=for-the-badge&color=4e9eff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
@@ -21,15 +20,9 @@
 
 ## 🚀 About Me
 
-```yaml
-Name       : Varun Kumar Kesineni
-Role       : Aspiring Data Analyst & Cloud Engineer
-College    : CMR College of Engineering and Technology — 2nd Year
-Location   : Hyderabad, India 
-Focus      : Data Analytics + Cloud (AWS & Azure) + AI
-Status     : 📖 Currently Learning 
-```
+Hi, I'm **Varun Kumar Kesineni**, an aspiring **Data Analyst & Cloud Engineer** currently pursuing **B.Tech in Information Technology (2nd Year)** at **CMR College of Engineering and Technology, Hyderabad, India**. I am on a focused mission to master Data Analytics, Cloud Computing (AWS & Azure), and Artificial Intelligence from the ground up — studying 2 hours every single day. My goal is to secure a placement in a top MNC by 2028 by building real-world projects, earning industry certifications, and continuously improving my skills. I believe in learning by doing, and every day I take one more step toward becoming a professional data-driven problem solver.
 
+---
 
 ## 💡 What I'm Interested In
 
@@ -58,7 +51,7 @@ Status     : 📖 Currently Learning
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for=the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,7 +70,7 @@ Status     : 📖 Currently Learning
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunkumarkesineni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4e9eff&icon_color=4e9eff&text_color=e2e2f0"/>
-
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumarkesineni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4e9eff&text_color=e2e2f0"/>
 
 </div>
