@@ -15,14 +15,14 @@
 
 ## 🚀 About Me
 
-I am a Computer Science undergraduate at CMR College of Engineering & Technology with a strong interest in Data Analytics and Business Intelligence. I enjoy working with data to identify patterns, generate meaningful insights, and present information through clear visualizations and interactive dashboards. I am currently building hands-on projects using SQL, Excel, and Power BI while strengthening my understanding of data analysis and visualization techniques. My core skills include SQL for data querying and analysis, Microsoft Excel for data cleaning and pivot-based analysis, and Power BI/Tableau for dashboard development and data visualization, along with basic Python for data analysis. I am actively developing a portfolio of real-world analytics projects and seeking opportunities to apply data-driven decision making in practical environments.
+I am a Computer Science undergraduate at CMR College of Engineering & Technology with a strong interest in Data Analytics and Business Intelligence. I enjoy working with data to identify patterns, generate meaningful insights, and present information through clear visualizations and interactive dashboards. I am currently building hands-on projects using SQL, Excel, and Power BI while strengthening my understanding of data analysis and visualization techniques. My core skills include SQL for data querying and analysis, Microsoft Excel for data cleaning and pivot-based analysis, and Power BI/Tableau for dashboard development and data visualization, along with basic Python for data analysis. I am actively developing a portfolio of real world analytics projects and seeking opportunities to apply data driven decision making in practical environments.
 
 ---
 
 ## 💡 What I'm Interested In
 
 - 📊 **Data Analytics** — Turning raw data into meaningful business insights
-- ☁️ **Cloud Computing** — Building scalable solutions on AWS & Microsoft Azure
+- ☁️ **Cloud Computing** — Building scalable solutions on AWS
 - 📈 **Business Intelligence** — Interactive dashboards with Power BI & Tableau
 - 🧹 **Data Engineering** — ETL pipelines, data warehousing, clean data workflows
 - 💻 **Open Source** — Contributing to DA projects and sharing knowledge
@@ -41,7 +41,6 @@ I am a Computer Science undergraduate at CMR College of Engineering & Technology
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
