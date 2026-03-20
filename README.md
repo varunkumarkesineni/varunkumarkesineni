@@ -24,8 +24,8 @@
 ```yaml
 Name       : Varun Kumar Kesineni
 Role       : Aspiring Data Analyst & Cloud Engineer
-College    : B.Tech Information Technology — 2rd Year
-Location   : Hyderabad, India 🇮🇳
+College    : CMR College of Engineering&Technology — 2rd Year
+Location   : Hyderabad, India 
 Mission    : Land a top MNC placement by 2028
 Focus      : Data Analytics + Cloud (AWS & Azure) + AI
 Status     : 📖 Currently Learning — Day by Day
