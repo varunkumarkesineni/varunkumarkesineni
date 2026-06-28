@@ -89,7 +89,7 @@ while(alive):
 <div align="center">
 
 <a href="https://github.com/varunkumarkesineni"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/varun_kumar2006"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.reddit.com/u/varun_chowdary_45"><img src="https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 <a href="https://www.kaggle.com/varunkumarkesineni"><img src="https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
