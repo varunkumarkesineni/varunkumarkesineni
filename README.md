@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4e9eff&height=200&section=header&text=Hey%2C%20I'm%20Varun%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Cloud%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4e9eff&height=200&section=header&text=Hey%2C%20I'm%20Varun%20Kumar%20Kesineni&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Cloud%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -26,6 +26,8 @@ $ whoami
 ░░╚██╔╝░░██║░░██║██║░░██║╚██████╔╝██║░╚███║
 ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚══╝
 ```
+
+Varun Kumar Kesineni
 
 Data Analyst (in progress) &nbsp;•&nbsp; CS Undergrad @ CMR College of Engineering & Technology &nbsp;•&nbsp; Business Intelligence Enthusiast
 
@@ -90,6 +92,8 @@ while(alive):
 
 <a href="https://github.com/varunkumarkesineni"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/varunkumar03"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://discord.com/users/varunkumarkesineni"><img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://x.com/varun_kumar2006"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.reddit.com/u/varun_chowdary_45"><img src="https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 <a href="https://www.kaggle.com/varunkumarkesineni"><img src="https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
