@@ -1,83 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4e9eff&height=200&section=header&text=Hey%2C%20I'm%20Varun%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Cloud%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ===================== HERO SECTION ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2e1a4e,100:ff6a00&height=220&section=header&text=VARUN%20KUMAR%20KESINENI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=⚡%20Aspiring%20Data%20Analyst%20%7C%20Cloud%20%26%20BI%20Hero%20⚡&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- 🦸 Animated Superhero Poster — generated via the Git City workflow -->
-<img src="Assets/output.gif" alt="Varun - Superhero Poster" width="320"/>
+<a href="https://github.com/varunkumarkesineni"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/varunkumar03"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://varunkumarkesineni.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:kesinenivarunkumar715@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=varunkumarkesineni&color=4e9eff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=varunkumarkesineni&color=ff6a00&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/varunkumarkesineni?style=for-the-badge&color=4e9eff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/varunkumarkesineni?style=for-the-badge&color=4e9eff&labelColor=0d1117&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-$ whoami
+<!-- ===================== ANIMATED MEDIA ===================== -->
+<div align="center">
+
+### 🦸 Git City — The Origin Poster
+
+<img src="Assets/output.gif" alt="Varun's animated superhero poster, generated via the Git City workflow" width="360"/>
+
+<sub>Generated via the 3D poster prompt (GPT‑4o / Nano Banana / Gemini) → animated with Veo 3.1 → converted to GIF. Drop your own render at <code>Assets/output.gif</code> once it's ready.</sub>
+
+</div>
 
 ---
+
+### 🧬 About Me
+
+```
+> Currently:      B.Tech CSE student @ CMR College of Engineering & Technology, Hyderabad
+> Working on:     Data Analytics projects, dashboards & SQL-driven insights
+> Learning:       Advanced Power BI, Cloud (AWS/GCP), and System Design fundamentals
+> Building:       A portfolio that doubles as a developer + analyst landing page
+> Ask me about:   Python, SQL, Power BI, Pandas/NumPy, data cleaning, DSA on LeetCode
+> Fun fact:       70+ DSA problems solved on LeetCode and counting
+```
+
+---
+
+### ⚙️ Skills Showcase
 
 <div align="center">
 
-```
-██╗░░░██╗░█████╗░██████╗░██╗░░░██╗███╗░░██╗
-██║░░░██║██╔══██╗██╔══██╗██║░░░██║████╗░██║
-╚██╗░██╔╝███████║██████╔╝██║░░░██║██╔██╗██║
-░╚████╔╝░██╔══██║██╔══██╗██║░░░██║██║╚████║
-░░╚██╔╝░░██║░░██║██║░░██║╚██████╔╝██║░╚███║
-░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚══╝
-```
+**Languages & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,mysql" />
 
-Aspiring Data Analyst &nbsp;•&nbsp; CS Undergrad @ CMR College of Engineering & Technology &nbsp;•&nbsp; Business Intelligence Enthusiast
+**Data Analytics & BI**
+<br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-🔗 Portfolio: **[varunkumarkesineni.netlify.app](https://varunkumarkesineni.netlify.app)** *(swap in your real domain if it differs)*
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,jupyter" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
 </div>
 
 ---
 
-### :) Tech Stack
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://github-readme-stats.vercel.app/api?username=varunkumarkesineni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=4e9eff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumarkesineni&theme=tokyonight&hide_border=true&background=0d1117&ring=ff6a00&fire=ff6a00" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumarkesineni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6a00" width="48%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=varunkumarkesineni&theme=tokyonight&no-frame=true&row=1&column=6" width="80%"/>
 
 </div>
 
 ---
 
-### :) Current Inventory
-
-```
-> SQL Querying & Database Analysis
-> Power BI Dashboard Development
-> Excel Pivot Tables & Data Cleaning
-> Python for Data Analysis (Pandas, NumPy, Matplotlib)
-> AWS & GCP Cloud Fundamentals
-> ETL & Data Warehousing
-> Business Intelligence Reporting
-> Solving DSA on LeetCode (70+ problems and counting)
-```
-
----
-
-### :) Philosophy
+### 🐍 Philosophy
 
 ```python
 while(alive):
@@ -89,39 +108,6 @@ while(alive):
     evolve("data_analyst");
 }
 ```
-
----
-
-### :) Connect
-
-<div align="center">
-
-<a href="https://github.com/varunkumarkesineni"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/varunkumar03"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://varunkumarkesineni.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4e9eff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://x.com/varun_kumar2006"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.kaggle.com/varunkumarkesineni"><img src="https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="mailto:kesinenivarunkumar715@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
-</div>
-
----
-
-### :) GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=varunkumarkesineni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumarkesineni&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumarkesineni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -137,6 +123,6 @@ while(alive):
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e9eff,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
