@@ -12,22 +12,9 @@
 
 ---
 
-$ whoami
-
----
-
 <div align="center">
 
-```
-██╗░░░██╗░█████╗░██████╗░██╗░░░██╗███╗░░██╗
-██║░░░██║██╔══██╗██╔══██╗██║░░░██║████╗░██║
-╚██╗░██╔╝███████║██████╔╝██║░░░██║██╔██╗██║
-░╚████╔╝░██╔══██║██╔══██╗██║░░░██║██║╚████║
-░░╚██╔╝░░██║░░██║██║░░██║╚██████╔╝██║░╚███║
-░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚══╝
-```
-
-Varun Kumar Kesineni
+### Varun Kumar Kesineni
 
 Data Analyst (in progress) &nbsp;•&nbsp; CS Undergrad @ CMR College of Engineering & Technology &nbsp;•&nbsp; Business Intelligence Enthusiast
 
@@ -106,7 +93,7 @@ while(alive):
 <div align="center">
 
 ```
-+ "The numbers don't lie, but they don't speak either — that's our job."
++ "Data is just noise until someone asks the right question."
 ```
 
 — Varun
