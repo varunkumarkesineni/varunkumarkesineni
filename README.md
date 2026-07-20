@@ -16,7 +16,7 @@
 
 ### Varun Kumar Kesineni
 
-Data Analyst (in progress) &nbsp;•&nbsp; CS Undergrad @ CMR College of Engineering & Technology &nbsp;•&nbsp; Business Intelligence Enthusiast
+Data Analyst &nbsp;•&nbsp; CS Undergrad @ CMR College of Engineering & Technology &nbsp;•&nbsp; Business Intelligence Enthusiast
 
 </div>
 
