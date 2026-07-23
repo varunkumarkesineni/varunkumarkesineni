@@ -18,7 +18,7 @@ Data Analyst • Business Intelligence Enthusiast
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 B.Tech CSE Student @ CMR College of Engineering & Technology
 
@@ -67,7 +67,7 @@ Data Analyst • Business Intelligence Enthusiast
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |----------|-------------|
