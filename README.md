@@ -145,15 +145,23 @@ class VarunKumarKesineni:
 
 <p align="center">
 
-<a href="https://github.com/varunkumarkesineni">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/>
+<a href="https://github.com/varunkumarkesineni" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55"/>
+<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60" />
 </a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="60" />
+</a>
+
+<a href="mailto:kesinenivarunkumar715@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="60" />
+</a>
+
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
