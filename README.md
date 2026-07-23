@@ -1,179 +1,171 @@
-<!-- ========================================= -->
-<!--      VARUN KUMAR KESINENI README          -->
-<!-- ========================================= -->
+<!-- ================================================= -->
+<!--        VARUN KUMAR KESINENI - GITHUB PROFILE       -->
+<!-- ================================================= -->
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&color=38BDF8&width=900&height=100&duration=4000&lines=$+whoami;>+Varun+Kumar+Kesineni;$+role;>+Data+Analyst;$+building;>+Data+Analytics+%2F+Business+Intelligence;$+learning;>+Data+Engineering+%26+Cloud;$+goal;>+Turning+Data+into+Insights;" />
+<h1 align="center">
+Hi 👋, I'm Varun Kumar Kesineni
 </h1>
 
----
-
-<table>
-<tr>
-
-<td width="55%">
-
-<pre>
-██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
-██║   ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║
-██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║
-╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║
- ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-</pre>
+<h3 align="center">
+Data Analyst • Business Intelligence Enthusiast • Future Data Engineer
+</h3>
 
 <p align="center">
 
-📊 <b>Data Analyst</b><br>
-🎓 B.Tech CSE @ CMR College of Engineering & Technology<br>
-📈 Business Intelligence Enthusiast<br>
-☁️ Learning Data Engineering & Cloud
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Learning+Data+Engineering+%26+AWS;Turning+Data+into+Business+Insights"/>
 
 </p>
 
-</td>
+---
 
-<td width="45%" align="center">
+## 🚀 About Me
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="320"/>
+🎓 B.Tech CSE Student @ CMR College of Engineering & Technology
 
-</td>
+📊 Aspiring Data Analyst
 
-</tr>
-</table>
+📈 Passionate about Business Intelligence
+
+☁️ Learning Data Engineering & AWS Cloud
+
+🎯 Goal: Become a Data Analyst in a Product-Based Company
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,aws&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,aws&theme=dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🚀 Current Focus
+## 📚 Currently Learning
 
-```bash
-> SQL Querying & Database Analysis
-> Excel Data Cleaning & Pivot Tables
-> Power BI Dashboard Development
-> Tableau Visualization
-> Python for Data Analysis
-> ETL & Data Warehousing
-> AWS Cloud Fundamentals
-> Business Intelligence Reporting
-```
+- SQL
+- Advanced Excel
+- Power BI
+- Python for Data Analysis
+- Data Engineering
+- ETL Pipelines
+- AWS Cloud
 
 ---
 
-# 📂 Featured Projects
+## 🚀 Featured Projects
 
-```python
-class VarunKumarKesineni:
-
-    role = "Data Analyst"
-
-    college = "CMR College of Engineering & Technology"
-
-    projects = [
-        "AI Resume Analyzer",
-        "Sales Analytics Dashboard",
-        "Plant Seedlings Classification",
-        "Anti-Theft Weight Verification System",
-        "DevOps Laboratory"
-    ]
-
-    currently_learning = [
-        "Excel",
-        "SQL",
-        "Power BI",
-        "Python",
-        "Data Engineering"
-    ]
-
-    motto = "Transforming raw data into meaningful business insights."
-```
+| Project | Description |
+|----------|-------------|
+| 📊 Sales Analytics Dashboard | Interactive Power BI Dashboard |
+| 🤖 AI Resume Analyzer | Resume Screening using AI |
+| 🌱 Plant Seedlings Classification | Deep Learning CNN Project |
+| 🛒 Anti-Theft Weight Verification | IoT + Python Project |
+| ⚙ DevOps Laboratory | Linux, Git & Docker Labs |
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-```text
 ✔ Cisco Data Analytics Essentials
+
 ✔ Cisco Python Essentials
+
 ✔ Cisco Introduction to Data Science
+
 ✔ Salesforce Agentforce Specialist
-✔ Infosys Springboard Learning
-```
+
+✔ Infosys Springboard
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 GitHub Stats
 
 <p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=varunkumarkesineni&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake">
-
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumarkesineni&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌐 Connect
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<a href="https://github.com/varunkumarkesineni" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumarkesineni&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/varunkumarkesineni">
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
 </a>
 
+&nbsp;&nbsp;&nbsp;
 
+<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326">
 
-<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+
 </a>
 
-
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kesinenivarunkumar715@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="60" />
+
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+
 </a>
-
-
 
 </p>
 
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=varunkumarkesineni&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">
 
-```diff
-+ "Data becomes valuable when transformed into actionable insights."
-```
+💡 "Data becomes valuable when transformed into actionable insights."
 
-### — Varun Kumar Kesineni
-
-</div>
+</h3>
