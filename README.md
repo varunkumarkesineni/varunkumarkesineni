@@ -10,6 +10,7 @@
 
 <table>
 <tr>
+
 <td width="55%">
 
 <pre>
@@ -23,20 +24,21 @@
 
 <p align="center">
 
-📊 Data Analyst <br>
-🎓 B.Tech CSE @ CMR College of Engineering & Technology <br>
-📈 Business Intelligence Enthusiast <br>
+📊 <b>Data Analyst</b><br>
+🎓 B.Tech CSE @ CMR College of Engineering & Technology<br>
+📈 Business Intelligence Enthusiast<br>
 ☁️ Learning Data Engineering & Cloud
 
 </p>
 
 </td>
 
-<td width="45%">
+<td width="45%" align="center">
 
-<img src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif" height="300px"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="320"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -124,9 +126,15 @@ class VarunKumarKesineni:
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake">
+
 </picture>
 
 </p>
@@ -138,25 +146,19 @@ class VarunKumarKesineni:
 <p align="center">
 
 <a href="https://github.com/varunkumarkesineni">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="42"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42"/>
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kesinenivarunkumar715@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://skillicons.dev/icons?i=discord&theme=dark" height="42"/>
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="55"/>
 </a>
 
 </p>
