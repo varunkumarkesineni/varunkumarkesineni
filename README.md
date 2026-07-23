@@ -3,16 +3,14 @@
 <!-- ========================================= -->
 
 <h1 align="left">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&color=38BDF8&width=900&height=100&duration=4000&lines=$+whoami;>+Varun+Kumar+Kesineni;$+role;>+Aspiring+Data+Analyst;$+learning;>+Data+Engineering+$+Business+Intelligence;$+skills;>+SQL+|+Excel+|+Power+BI+|+Python;$+building;>+Analytics+Dashboards+$+AI+Projects;$+goal;>+Turning+Data+into+Business+Insights;"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&color=38BDF8&width=900&height=100&duration=4000&lines=$+whoami;>+Varun+Kumar+Kesineni;$+role;>+Data+Analyst;$+building;>+Data+Analytics+%2F+Business+Intelligence;$+learning;>+Data+Engineering+%26+Cloud;$+goal;>+Turning+Data+into+Insights;" />
 </h1>
 
 ---
 
 <table>
 <tr>
-<td>
+<td width="55%">
 
 <pre>
 ██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
@@ -25,16 +23,16 @@
 
 <p align="center">
 
-📊 Aspiring Data Analyst <br>
-📈 Data Engineering Enthusiast <br>
-🎓 CSE Undergraduate @ CMR College of Engineering & Technology <br>
-💡 Business Intelligence & AI Analytics Learner
+📊 Data Analyst <br>
+🎓 B.Tech CSE @ CMR College of Engineering & Technology <br>
+📈 Business Intelligence Enthusiast <br>
+☁️ Learning Data Engineering & Cloud
 
 </p>
 
 </td>
 
-<td>
+<td width="45%">
 
 <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif" height="300px"/>
 
@@ -50,16 +48,14 @@
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,aws&theme=dark" height="48"/>
 
-<br><br>
+</p>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<p align="center">
 
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </p>
@@ -69,68 +65,45 @@
 # 🚀 Current Focus
 
 ```bash
-> SQL Query Optimization
-> Excel Data Cleaning
+> SQL Querying & Database Analysis
+> Excel Data Cleaning & Pivot Tables
 > Power BI Dashboard Development
 > Tableau Visualization
-> Python for Data Analytics
+> Python for Data Analysis
 > ETL & Data Warehousing
+> AWS Cloud Fundamentals
 > Business Intelligence Reporting
-> AI Powered Analytics
 ```
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
 ```python
 class VarunKumarKesineni:
 
-    role = "Aspiring Data Analyst"
+    role = "Data Analyst"
 
     college = "CMR College of Engineering & Technology"
 
-    skills = [
-        "SQL",
+    projects = [
+        "AI Resume Analyzer",
+        "Sales Analytics Dashboard",
+        "Plant Seedlings Classification",
+        "Anti-Theft Weight Verification System",
+        "DevOps Laboratory"
+    ]
+
+    currently_learning = [
         "Excel",
+        "SQL",
         "Power BI",
         "Python",
-        "Tableau",
-        "Pandas",
-        "NumPy",
-        "AWS Basics"
+        "Data Engineering"
     ]
 
-    projects = [
-        "Higher Education Performance Dashboard",
-        "Sales Analytics Dashboard",
-        "AI Resume Analyzer",
-        "Plant Seedlings Classification",
-        "Anti-Theft Weight Verification System"
-    ]
-
-    goal = "Become a Data Analyst & Data Engineer"
-
-    motto = "Turning raw data into meaningful business insights."
+    motto = "Transforming raw data into meaningful business insights."
 ```
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -138,15 +111,25 @@ class VarunKumarKesineni:
 
 ```text
 ✔ Cisco Data Analytics Essentials
-
 ✔ Cisco Python Essentials
-
 ✔ Cisco Introduction to Data Science
-
 ✔ Salesforce Agentforce Specialist
-
-✔ Infosys Springboard Virtual Internship
+✔ Infosys Springboard Learning
 ```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</p>
 
 ---
 
@@ -154,24 +137,26 @@ class VarunKumarKesineni:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="38"/>
+<a href="https://github.com/varunkumarkesineni">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="42"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="38"/>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42"/>
 </a>
 
-<a href="YOUR_KAGGLE_URL">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="35"/>
+&nbsp;&nbsp;
+
+<a href="mailto:kesinenivarunkumar715@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="35"/>
-</a>
+&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="38"/>
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://skillicons.dev/icons?i=discord&theme=dark" height="42"/>
 </a>
 
 </p>
