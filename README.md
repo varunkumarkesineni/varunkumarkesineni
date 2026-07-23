@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <h1 align="center">
-Hi 👋, I'm Varun Kumar Kesineni
+Hi, I'm Varun Kumar Kesineni
 </h1>
 
 <h3 align="center">
@@ -128,14 +128,6 @@ Data Analyst • Business Intelligence Enthusiast
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=varunkumarkesineni&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
