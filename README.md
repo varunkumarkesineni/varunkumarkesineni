@@ -153,10 +153,6 @@ class VarunKumarKesineni:
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60" />
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="60" />
-</a>
-
 <a href="mailto:kesinenivarunkumar715@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="60" />
 </a>
