@@ -7,7 +7,7 @@ Hi 👋, I'm Varun Kumar Kesineni
 </h1>
 
 <h3 align="center">
-Data Analyst • Business Intelligence Enthusiast • Future Data Engineer
+Data Analyst • Business Intelligence Enthusiast 
 </h3>
 
 <p align="center">
@@ -26,9 +26,8 @@ Data Analyst • Business Intelligence Enthusiast • Future Data Engineer
 
 📈 Passionate about Business Intelligence
 
-☁️ Learning Data Engineering & AWS Cloud
+☁️ Learning AWS Cloud
 
-🎯 Goal: Become a Data Analyst in a Product-Based Company
 
 ---
 
@@ -92,27 +91,9 @@ Data Analyst • Business Intelligence Enthusiast • Future Data Engineer
 
 ✔ Infosys Springboard
 
----
 
-## 📈 GitHub Stats
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=varunkumarkesineni&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumarkesineni&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunkumarkesineni&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -136,15 +117,11 @@ Data Analyst • Business Intelligence Enthusiast • Future Data Engineer
 
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326">
 
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kesinenivarunkumar715@gmail.com">
 
