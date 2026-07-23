@@ -163,13 +163,6 @@ class VarunKumarKesineni:
 
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:kesinenivarunkumar715@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="55"/>
-</a>
-
-</p>
 
 ---
 
