@@ -149,13 +149,19 @@ class VarunKumarKesineni:
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" />
 </a>
 
+
+
 <a href="https://www.linkedin.com/in/varun-kumar-kesineni-80a427326" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60" />
 </a>
 
+
+
 <a href="mailto:kesinenivarunkumar715@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="60" />
 </a>
+
+
 
 </p>
 
